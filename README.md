@@ -13,4 +13,4 @@
 
 ##### [P18 快速开发配置测试微服务基本的CURD功能](https://gitee.com/Nobodise/study-notes-of-millet-mall/blob/master/P18%20%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91%E9%85%8D%E7%BD%AE%E6%B5%8B%E8%AF%95%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%9F%BA%E6%9C%AC%E7%9A%84CURD%E5%8A%9F%E8%83%BD.md)
 
-##### [P19 快速开发逆向生成所有微服务基本CRUD代码](https://github.com/Blecifer/gulimall-study-note/edit/main/README.md)
+##### [P19 快速开发逆向生成所有微服务基本CRUD代码](https://github.com/Blecifer/gulimall-study-note/blob/main/P19%20%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91%E9%80%86%E5%90%91%E7%94%9F%E6%88%90%E6%89%80%E6%9C%89%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%9F%BA%E6%9C%ACCRUD%E4%BB%A3%E7%A0%81.md)
