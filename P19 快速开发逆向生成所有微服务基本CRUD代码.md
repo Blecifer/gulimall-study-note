@@ -6,8 +6,14 @@
 coupon	7000
 member	8000
 order	9000
-product	10000
+product	10001(原10000，因经常冲突改为10001)
 ware	11000
+gateway 88
+renren-fast（后端） 8080
+renren-fast-vue（前端） 8001
+nacos 8848
+mysql 3306
+
 ```
 
 bug：
